@@ -16,10 +16,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christina-cs-foothill&theme=material-palenight" />
 </a><br>
 <a href="https://github.com/roxiomontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roxiomontes&show_icons=true&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?christina-cs-foothill=roxiomontes&show_icons=true&theme=material-palenight" />
 </a><br>
 <a href="https://github.com/roxiomontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxiomontes&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christina-cs-foothill&layout=compact&theme=material-palenight" />
 </a><br>
 
 
