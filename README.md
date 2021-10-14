@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on anything! While my interest is mobile app development, I recently worked on an website project using React JS and really enjoyed it.
 - 📫 How to reach me ...
   
-<a href="google.com"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/montesrocio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 <a href="https://github.com/roxiomontes">
