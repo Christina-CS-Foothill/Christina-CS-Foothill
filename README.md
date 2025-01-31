@@ -4,9 +4,9 @@
 
 ## 🚀  About Me
 
-- 👀 I’m interested in mobile app development.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on anything! While my interest is mobile app development, I recently worked on an website project using React JS and really enjoyed it.
+- 👀 I’m interested in mobile and web app development.
+- 🌱 I’m currently buidling mobile and web applications using Flutter, html and javascript.
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
   
 <a href="https://www.linkedin.com/in/christina-hunter-95a8a0ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
